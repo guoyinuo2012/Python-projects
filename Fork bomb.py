@@ -4,7 +4,7 @@ import platform
 import subprocess
 import sys
 
-MESSAGE = "You have been hacked by Yinuo"
+MESSAGE = "Hello"
 
 
 def fast_spawn_windows(count=10000):
