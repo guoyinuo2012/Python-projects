@@ -1,10 +1,3 @@
-"""
-Translator
-==========
-A clean, modern, multi-engine desktop AI translator built in Python.
-Single-script architecture containing complete UI, translation engine,
-database persistence, document processing, and audio synthesis.
-"""
 
 import os
 import sys
